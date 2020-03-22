@@ -7,4 +7,4 @@ Final year MS mask r-cnn computer vision project for automatic heart detection o
 
 -Notebook for Miccai 216 3d IRM segmentation
 
-Grop work: ISRAILOV, Belhamissi, Kandji, Chen.
+Group work: ISRAILOV, Belhamissi, Kandji, Chen.
